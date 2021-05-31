@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Trung Anh jason@git.training @awesomeit
 
 # THANKS
 
